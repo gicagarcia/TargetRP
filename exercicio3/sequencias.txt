@@ -1,0 +1,32 @@
+Sequencias informadas:
+a - 1, 3, 5, 7
+b - 2, 4, 8, 16, 32, 64
+c- 0, 1, 4, 9, 16, 25, 36
+d- 4, 16, 36, 64
+e- 1, 1, 2, 3, 5, 8
+f- 2,10, 12, 16, 17, 18, 19
+
+Sequencia A:
+O número é igual ao anterior + 2.
+O próximo número será 9.
+
+Sequencia B:
+O número seguinte é o dobro do número anterior.
+O próximo número será 128 (64*2).
+
+Sequencia C:
+Os números são somados aos números ímpares em sequência (1, 3, 5, 7...).
+O próximo será 49 (36+13) pois (36-25 = 11).
+
+Sequencia D:
+Os números são os quadrados dos números pares em sequência (2, 4, 6, 8).
+O próximo será 100 (10²), já que 64 = 8².
+
+Sequencia E:
+Os números seguem a sequência de Fibonacci, definida por N = N-1 + N-2.
+O próximo número será 13 (8+5).
+
+Sequencia F: 
+Sequência formada pela sonoridade dos números, já que todos começam com D.
+O próximo número será 200 (duzentos).
+*Admito que essa só entendi lendo em voz alta rs.
